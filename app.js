@@ -10,5 +10,5 @@ else {
 }
 
 process.on('exit', function(code) {
-    console.log("Exiting! Code: " + code);
+    //console.log("Exiting! Code: " + code);
 });
